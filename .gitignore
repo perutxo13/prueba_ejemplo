@@ -1,0 +1,11 @@
+# esto es un comentario
+# despues de este punto digo que los csv, xlsx, xlsx
+#.csv
+
+#.xls
+#.xlsx
+
+#si quiero ignorar una carpeta
+nombre_carpeta/
+
+datos/*.json
